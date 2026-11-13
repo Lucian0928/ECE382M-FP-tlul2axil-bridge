@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# simulation outputs (regenerate with `make sim`)
+tlul2axil-bridge/bridge/build/
+*.vcd
+*.vvp
+INCA_libs/
+xcelium.d/
+*.log
+*.key
+waves.shm/
+
+# Office lock files
+~$*
