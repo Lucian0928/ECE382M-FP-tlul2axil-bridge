@@ -1,4 +1,4 @@
-# ECE382M-7 Final Project — Group 13: TL-UL to AXI4-Lite Bridge
+# ECE382M-7 Final Project Group 13: TL-UL to AXI4-Lite Bridge
 
 Members: Yen-Yu Chen, Chia-Huang Chen, Amaury Jayr, Hao-Yu Chang
 
